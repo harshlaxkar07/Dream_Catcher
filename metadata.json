@@ -1,0 +1,7 @@
+{
+  "name": "Dream Catcher : Drowsiness Detection System",
+  "description": "An advanced real-time bio-monitor that tracks eye closure, head pose, and fatigue level to prevent accidents caused by drowsiness.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
